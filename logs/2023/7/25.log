@@ -1,0 +1,25 @@
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Total num of problem solved=100
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Progress is 0.750000
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Status is complete
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Data dictionary: {'name': 'John Doe', 'age': 30}
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Data list: [1, 2, 3, 4]
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Telemetry event - {"event_name": "user_login", "timestamp": "2023-07-25 12:21:44.190847", "data": {"username": "john_doe", "role": "admin"}}
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Telemetry event - {"event_name": "purchase", "timestamp": "2023-07-25 12:21:44.190926", "data": {"product": "laptop", "price": 1200.0, "quantity": 2}}
+2023-07-25 12:21:44,190 - my_app - INFO - msg=Performing telemetry analytics
+2023-07-25 12:21:44,191 - my_app - INFO - msg=Aggregating telemetry data
+2023-07-25 12:21:44,191 - my_app - INFO - msg=CPU Usage - 100.000000%
+2023-07-25 12:21:44,191 - my_app - INFO - msg=Memory Usage - 63.700000%
+2023-07-25 12:21:49,195 - my_app - INFO - msg=CPU Usage - 40.700000%
+2023-07-25 12:21:49,205 - my_app - INFO - msg=Memory Usage - 63.600000%
+2023-07-25 12:21:54,210 - my_app - INFO - msg=CPU Usage - 12.900000%
+2023-07-25 12:21:54,210 - my_app - INFO - msg=Memory Usage - 63.700000%
+2023-07-25 12:21:59,215 - my_app - INFO - msg=CPU Usage - 12.600000%
+2023-07-25 12:21:59,215 - my_app - INFO - msg=Memory Usage - 63.800000%
+2023-07-25 12:22:04,219 - my_app - INFO - msg=CPU Usage - 9.500000%
+2023-07-25 12:22:04,219 - my_app - INFO - msg=Memory Usage - 63.800000%
+2023-07-25 12:22:09,223 - my_app - INFO - msg=CPU Usage - 11.800000%
+2023-07-25 12:22:09,223 - my_app - INFO - msg=Memory Usage - 63.900000%
+2023-07-25 12:22:14,227 - my_app - INFO - msg=CPU Usage - 15.100000%
+2023-07-25 12:22:14,236 - my_app - INFO - msg=Memory Usage - 63.800000%
+2023-07-25 12:22:19,238 - my_app - INFO - msg=CPU Usage - 13.600000%
+2023-07-25 12:22:19,238 - my_app - INFO - msg=Memory Usage - 63.800000%
